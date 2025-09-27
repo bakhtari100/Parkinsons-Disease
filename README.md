@@ -5,10 +5,6 @@ The dataset used comprises various features that distinguish between healthy ind
 
 
 Libraries Used:
-  Pandas
-  NumPy
-  Matplotlib
-  Seaborn
-  Scikit-learn
-  XGBoost
-  Imbalanced-learn
+  Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn, XGBoost, Imbalanced-learn
+
+
